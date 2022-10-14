@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Fabio Fernandes
+- 📚 I'm studiyng computer science
+- 👀 I’m interested in being a front-end developer
+- 🌱 I’m currently learning NodeJS and ReactJS
+- 📫 How to reach me: https://linkedin.com/in/fabio-fernandes-527118214/
